@@ -13,8 +13,7 @@ Linux operating system
 
 # COMMAND1:ls - List Directory Contents
 
-Developed by : Alluguri SriKrishna Teja
-Register no: 212222040006
+Developed by : Laxman Reddy
 
 
 
